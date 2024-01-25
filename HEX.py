@@ -74,7 +74,7 @@ logo=(f"""{A}
 {R}--------------------------------------------------
 {R}❲{G}~{R}❳{G} DEVELOPER {R}:{G} ANIS Schiaparelli
 {R}❲{G}~{R}❳{G} FACEBOOK  {R}:{G} ANIS Schiaparelli
-{R}❲{G}~{R}❳{G} VERSION   {R}:{R} 0.1
+{R}❲{G}~{R}❳{G} VERSION   {R}:{R} 0.2
 {R}--------------------------------------------------""")
 ##---------------APPROVAL------------##
 def approval():
